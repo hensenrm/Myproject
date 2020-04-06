@@ -1,0 +1,9 @@
+hello this is a test for my git project!
+
+def mygit(work,index):
+  print("Doing somthing!")
+  return("worked!)
+
+Done!
+
+Great!
