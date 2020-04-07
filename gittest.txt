@@ -4,10 +4,5 @@ def mygit(work,index):
   print("Doing somthing!")
   return("worked!)
 
-Done!
-
-Great!
-
-go home 
-
-then go to work!
+This is final Edit and that's all.
+Everything done!Great!
